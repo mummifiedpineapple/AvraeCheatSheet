@@ -6,7 +6,7 @@
 | ------------------- | --------------------------------------------------------------- | ----------------- |
 | `!ddb`              | Displays information about your D&D Beyond account link.        |                   |
 | `!beyond <url>`     | Loads a character sheet from D&D Beyond, resetting all settings |                   |
-| `!character [name]` | Switch active character                                         | `/character list` |
+| `!character [name]` | Switch active character                                         | `!character list` |
 | `!update`           | Update the current character sheet, preserving all settings     |                   |
 | `!portrait`         | Shows the image of your currently active character              |                   |
 
